@@ -1,7 +1,0 @@
-Feature	Median_length	Average_ds	Num_regions
-CDS	1320	0.9665223	20185
-promcore	597	0.9272234	20164
-pc.3utr	1033	0.9735975	19369
-pc.5utr	309	0.9266092	19188
-enhancers	313	0.9811027	30816
-lncrna	1116	0.9721866	5580
